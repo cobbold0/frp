@@ -231,6 +231,9 @@ sudo certbot --nginx -d app.stephenandcobbold.com
 
 ## FINAL
 
+Use Cases:
+https://github.com/cobbold0/frp/blob/main/frp_use_cases.md
+
 SSH:
 ssh -p 6001 USER@YOUR_VPS_IP
 
